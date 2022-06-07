@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+
+<meta charset="UTF-8">
+<title>연습과제</title>
+</head>
+<body>
+
+<p style'"text-align:center;">
+<img src="피카츄.png" height=300/><br/>
+<b>피카츄(<i>Pikachu</i>)</b><br/>
+<a> href ="https://namu.wiki/w/%ED%94%BC%EC%B9%B4%EC%B8%84">나무위키 링크</a>
+<hr>
+포켓몬스터 프랜차이즈의 상징이자 영원한 마스코트인 포켓몬. </mark>.<br/>
+1000마리 안팎을 오가는 무수히 많은 포켓몬들 중에서도 가장 유명하며, 그만큼 인기도 많은 포켓몬이다.<br/>
+범세계적인 인지도와 인기로 포켓몬스터 시리즈를 넘어서 일본에서 가장 성공한 캐릭터로 평가받고 있으며, 특히 몬스터류 캐릭터로 한정하면 일본뿐만 아니라 전 세계적으로 유례가 없을 정도로 대성공을 거두었다. <br/>
+그래서 "미국에 미키마우스가 있다면, 일본엔 피카츄가 있다"고 말할 수 있을 정도.<br/>
+</p>
+<hr>
+<p>
+keyword</br>
+<ol>
+<li>포켓몬스터 마스코트</li>
+<li>전기타입 포켓몬</li>
+</ol>
+</p>
+</body>
+<mark></mark>
+<B></B>
+<i></i>
+</html>
